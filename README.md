@@ -1,5 +1,3 @@
-<link rel="icon" href="![image](https://github.com/user-attachments/assets/8822dc05-f754-4973-bdcc-5cc86a4a8f71)">
-
 # About 🪪
 - Software Engineering.
 - Deep Learning.
