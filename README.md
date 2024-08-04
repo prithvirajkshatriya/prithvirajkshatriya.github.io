@@ -1,5 +1,3 @@
-# prithvirajkshatriya.github.io
-
 # About 🪪
 - Software Engineering.
 - Deep Learning.
