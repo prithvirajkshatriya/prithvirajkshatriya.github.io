@@ -28,4 +28,3 @@
   &nbsp;
   <a> <img src="https://dcbadge.limes.pink/api/shield/1264564017951932456"/> </a>
 </div>
-</div>
