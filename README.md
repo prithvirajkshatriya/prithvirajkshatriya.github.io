@@ -27,7 +27,7 @@
   </a>
   &nbsp;
   <a href="https://discord.com/users/:1264564017951932456">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>
     
   </a>
 </div>
