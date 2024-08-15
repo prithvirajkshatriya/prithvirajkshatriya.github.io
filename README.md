@@ -26,6 +26,9 @@
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
   &nbsp;
+  <a href="https://discord.com/users/:1264564017951932456">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white alt="Discord Badge"/>
+  </a>
 </div>
 
 <br />
