@@ -26,5 +26,5 @@
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
   &nbsp;
-  <a> <img src="https://dcbadge.limes.pink/api/shield/1264564017951932456"/> </a>
+  <a href="https://dcbadge.limes.pink/api/shield/1264564017951932456"> <img src="https://dcbadge.limes.pink/api/shield/1264564017951932456"/> </a>
 </div>
