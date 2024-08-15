@@ -26,5 +26,8 @@
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
   &nbsp;
-  <a href="https://dcbadge.limes.pink/api/shield/1264564017951932456"> <img src="https://dcbadge.limes.pink/api/shield/1264564017951932456"/> </a>
 </div>
+
+<br />
+
+<!-- [![Discord](https://discord-readme-badge.vercel.app/api?id=1264564017951932456)](https://discord.com/users/:1264564017951932456) -->
