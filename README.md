@@ -1,6 +1,3 @@
-<br />
-<br />
-
 # About 🪪
 <ul>
   <li>Software Engineering</li>
