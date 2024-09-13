@@ -1,22 +1,21 @@
-<div>
-    <h1 style="font-family: Roboto; "> About 🪪 </h1>
-    <ul style="font-family: Open Sans">
-        <li>Software Engineering</li>
-        <li>Machine Learning</li>
-        <li>Deep Learning</li>
-        <li>Natural Language Processing</li>
-    </ul>
-</div>
+<h1 style="font-family: Roboto; "> About 🪪 </h1>
+    
+<ul style="font-family: Open Sans">
+   <li>Software Engineering</li>
+   <li>Machine Learning</li>
+   <li>Deep Learning</li>
+   <li>Natural Language Processing</li>
+</ul>
 
-# Toolbox 🧰
+<h1 style="font-family: Roboto;"> Toolbox 🧰 </h1> 
 
 [![My Skills](https://skillicons.dev/icons?i=java,python,cpp,ts,cs,r,sklearn,tensorflow,pytorch,aws,azure,docker,kubernetes,terraform,react)](https://skillicons.dev)
 
-# Thinking 🤔
+<h1 style="font-family: Roboto;"> Thinking 🤔 </h1>
 
 [![My Skills](https://skillicons.dev/icons?i=golang,rust,zig)](https://skillicons.dev)
 
-# Contact📇
+<h1 style="font-family: Roboto;"> Contact📇 </h1>
 
 <div id="badges">
    <a href="mailto:kshatriya.prithvi.raj.27@gmail.com?">
