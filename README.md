@@ -6,38 +6,15 @@
   <li>Natural Language Processing</li>
 </ul>
 
-
-<div style="position: absolute; z-index: -1; background-color: #F0F8FF;">
-  <div>
-    <p>
-      <h1>
-          Toolbox 🧰
-      </h1>
-
-[![My Skills](https://skillicons.dev/icons?i=java,python,cpp,ts,cs,r,sklearn,tensorflow,pytorch,aws,azure,docker,kubernetes,terraform,react)](https://skillicons.dev)
-</p>
-</div>
-<div>
-  <p>
-    <h1>
-    Thinking 🤔
-  </h1>
-
-[![My Skills](https://skillicons.dev/icons?i=golang,rust,zig)](https://skillicons.dev)
-  </p>
-</div>
-</div>
-
-
-<!-- # Toolbox 🧰
+# Toolbox 🧰
 [![My Skills](https://skillicons.dev/icons?i=java,python,cpp,ts,cs,r,sklearn,tensorflow,pytorch,aws,azure,docker,kubernetes,terraform,react)](https://skillicons.dev)
 
 # Thinking 🤔
-[![My Skills](https://skillicons.dev/icons?i=golang,rust,zig)](https://skillicons.dev) -->
+[![My Skills](https://skillicons.dev/icons?i=golang,rust,zig)](https://skillicons.dev)
 
 
 # Contact📇
-<div id="badges">
+<div id="badges" style="position: relative; z-index: -1;>
    <a href="mailto:kshatriya.prithvi.raj.27@gmail.com?">
    <img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
    </a> 
