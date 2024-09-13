@@ -7,14 +7,33 @@
 </ul>
 
 
-# Toolbox 🧰
-<!--- # Toolbox 🧰 -->
+<div style="position: relative; z-index: -1;">
+  <div>
+    <p>
+      <h1>
+          Toolbox 🧰
+      </h1>
+
+[![My Skills](https://skillicons.dev/icons?i=java,python,cpp,ts,cs,r,sklearn,tensorflow,pytorch,aws,azure,docker,kubernetes,terraform,react)](https://skillicons.dev)
+</p>
+</div>
+<div>
+  <p>
+    <h1>
+    Thinking 🤔
+  </h1>
+
+[![My Skills](https://skillicons.dev/icons?i=golang,rust,zig)](https://skillicons.dev)
+  </p>
+</div>
+</div>
+
+
+<!-- # Toolbox 🧰
 [![My Skills](https://skillicons.dev/icons?i=java,python,cpp,ts,cs,r,sklearn,tensorflow,pytorch,aws,azure,docker,kubernetes,terraform,react)](https://skillicons.dev)
 
-
 # Thinking 🤔
-<!--- # Thinking 🤔 -->
-[![My Skills](https://skillicons.dev/icons?i=golang,rust,zig)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=golang,rust,zig)](https://skillicons.dev) -->
 
 
 # Contact📇
