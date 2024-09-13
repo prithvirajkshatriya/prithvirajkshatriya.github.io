@@ -7,7 +7,7 @@
 </ul>
 
 
-<div style="position: relative; z-index: -1;">
+<div style="position: absolute; z-index: -1; background-color: #F0F8FF;">
   <div>
     <p>
       <h1>
