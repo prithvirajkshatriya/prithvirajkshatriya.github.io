@@ -1,4 +1,4 @@
-<h1 style="text-align: center;"> Hello fellow earthians 😃 </h1>
+<h1 style="font-family: Roboto; text-align: center;"> Hello fellow earthians 😃 </h1>
 
 # About 🪪
 <ul>
