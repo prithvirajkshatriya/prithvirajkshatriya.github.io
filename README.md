@@ -1,6 +1,6 @@
 <h1 style="font-family: Roboto;"> About 🪪 </h1>
     
-<ul>
+<ul style="list-style: none; padding: 0; margin: 0; font-family: 'Open Sans', sans-serif; white-space: nowrap;">
    <li>Software Engineering</li>
    <li>Machine Learning</li>
    <li>Deep Learning</li>
