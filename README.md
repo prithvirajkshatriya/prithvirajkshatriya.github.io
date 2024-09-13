@@ -1,3 +1,5 @@
+<h1 style="text-align: center;"> Hello fellow earthians 😃 </h1>
+
 # About 🪪
 <ul>
   <li>Software Engineering</li>
@@ -14,7 +16,7 @@
 
 
 # Contact📇
-<div id="badges" style="position: relative; z-index: -1;>
+<div id="badges">
    <a href="mailto:kshatriya.prithvi.raj.27@gmail.com?">
    <img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
    </a> 
