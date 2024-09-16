@@ -1,11 +1,12 @@
 <h1 style="font-family: Roboto;"> About 🪪 </h1>
     
 <ul style="font-family: 'Open Sans', sans-serif;">
-    ... 🧑‍💻Well, I like exploring approaches to AI such as.. 
+     ... 🧑‍💻Well, I like exploring approaches to AI such as.. 
     <li>Machine Learning</li>
     <li>Deep Learning</li>
     <li>Computer Vision</li>
     <li>Natural Language Processing</li>
+    as well as other aspects related to data like <b>data analytics, data engineering, and data science </b> to make sense of data.
 </ul>
 
 <h1 style="font-family: Roboto;"> Toolbox 🧰 </h1> 
