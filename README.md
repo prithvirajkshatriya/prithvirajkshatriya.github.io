@@ -1,10 +1,11 @@
 <h1 style="font-family: Roboto;"> About 🪪 </h1>
     
 <ul style="font-family: 'Open Sans', sans-serif;">
-   <li>Software Engineering</li>
-   <li>Machine Learning</li>
-   <li>Deep Learning</li>
-   <li>Natural Language Processing</li>
+    ..Well, I like exploring approaches to AI such Machine Learning, Deep Learning, NLP and more. 🧑‍💻
+    <li>Machine Learning</li>
+    <li>Deep Learning</li>
+    <li>Computer Vision</li>
+    <li>Natural Language Processing</li>
 </ul>
 
 <h1 style="font-family: Roboto;"> Toolbox 🧰 </h1> 
