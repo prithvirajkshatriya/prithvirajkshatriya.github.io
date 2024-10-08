@@ -13,7 +13,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=python,java,cpp,ts,r,cs,sklearn,tensorflow,pytorch,aws,azure,docker,kubernetes,terraform,react)](https://skillicons.dev)
 
-<!-- <h1 style="font-family: Roboto;"> Thinking 🤔 </h1>
+<!--- <h1 style="font-family: Roboto;"> Thinking 🤔 </h1>
 
 [![My Skills](https://skillicons.dev/icons?i=rust,zig)](https://skillicons.dev) -->
 
